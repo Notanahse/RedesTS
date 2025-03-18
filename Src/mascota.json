@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Firulais",
+      "tipo": "Perro"
+    },
+    {
+      "nombre": "Miau",
+      "tipo": "Gato"
+    },
+    {
+      "nombre": "Paco",
+      "tipo": "Loro"
+    },
+    {
+        "nombre":"pepo",
+        "tipo":"Perro"
+    }
+  ]
